@@ -1,0 +1,8 @@
+/Users/apple/Desktop/TimeMachine/TimeMachine/TimeMachine/bin/Debug/netcoreapp3.0/TimeMachine.deps.json
+/Users/apple/Desktop/TimeMachine/TimeMachine/TimeMachine/bin/Debug/netcoreapp3.0/TimeMachine.dll
+/Users/apple/Desktop/TimeMachine/TimeMachine/TimeMachine/bin/Debug/netcoreapp3.0/TimeMachine.pdb
+/Users/apple/Desktop/TimeMachine/TimeMachine/TimeMachine/obj/Debug/netcoreapp3.0/TimeMachine.csprojAssemblyReference.cache
+/Users/apple/Desktop/TimeMachine/TimeMachine/TimeMachine/obj/Debug/netcoreapp3.0/TimeMachine.AssemblyInfoInputs.cache
+/Users/apple/Desktop/TimeMachine/TimeMachine/TimeMachine/obj/Debug/netcoreapp3.0/TimeMachine.AssemblyInfo.cs
+/Users/apple/Desktop/TimeMachine/TimeMachine/TimeMachine/obj/Debug/netcoreapp3.0/TimeMachine.dll
+/Users/apple/Desktop/TimeMachine/TimeMachine/TimeMachine/obj/Debug/netcoreapp3.0/TimeMachine.pdb
